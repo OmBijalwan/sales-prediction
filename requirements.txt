@@ -6,3 +6,4 @@ flask==2.3.1
 dash==2.9.3
 plotly==5.14.1
 requests==2.31.0
+joblib==1.2.0   
