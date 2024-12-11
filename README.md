@@ -1,6 +1,6 @@
-﻿#Sales Prediction Using Machine Learning
+﻿# Sales Prediction Using Machine Learning
  
-##Link -: https://sales-prediction-9hpe.onrender.com
+## Link -: https://sales-prediction-9hpe.onrender.com
 
 
 Leveraged machine learning to predict Big Mart sales across stores. Analyzed historical data and market trends 
